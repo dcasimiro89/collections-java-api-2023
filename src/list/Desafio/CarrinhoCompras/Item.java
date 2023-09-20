@@ -1,4 +1,4 @@
-package list.Desafio;
+package list.Desafio.CarrinhoCompras;
 
 public class Item {
 
