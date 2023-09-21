@@ -1,4 +1,4 @@
-package list.Desafio.CarrinhoCompras;
+package list.OperacoesBasicas.Desafio.CarrinhoCompras;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package list.Desafio.SomaNumeros;
+package list.Pesquisa.Desafio.SomaNumeros;
 
 import java.util.ArrayList;
 import java.util.Collections;
